@@ -1,0 +1,77 @@
+{
+  "company": {
+    "name": "MedSupply Pro",
+    "tagline": "Your Trusted Partner in Medical Excellence",
+    "description": "Leading distributor of premium medical and surgical goods, serving healthcare professionals, pharmacies, and medical institutions worldwide.",
+    "phone": "+1 (555) 123-4567",
+    "email": "contact@medsupplypro.com",
+    "address": "1234 Medical Center Drive, Healthcare Plaza, Suite 567, New York, NY 10001"
+  },
+  "hero": {
+    "title": "Premium Medical & Surgical Supplies",
+    "subtitle": "Empowering Healthcare Excellence Through Quality Products",
+    "description": "Trusted by over 10,000+ healthcare professionals worldwide. From surgical instruments to diagnostic equipment, we provide the tools that save lives.",
+    "cta": {
+      "primary": "Download Our App",
+      "secondary": "View Catalog"
+    }
+  },
+  "about": {
+    "title": "About MedSupply Pro",
+    "mission": "To provide healthcare professionals with the highest quality medical supplies and surgical instruments, ensuring patient safety and treatment excellence.",
+    "vision": "To be the global leader in medical supply distribution, setting the standard for quality, reliability, and service in healthcare.",
+    "values": [
+      {
+        "title": "Quality Assurance",
+        "description": "Every product meets strict medical standards and regulatory compliance."
+      },
+      {
+        "title": "Reliability",
+        "description": "Consistent supply chain and on-time delivery you can depend on."
+      },
+      {
+        "title": "Innovation",
+        "description": "Continuously adopting cutting-edge medical technologies and solutions."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Dedicated support team committed to your success and satisfaction."
+      }
+    ],
+    "story": "Founded in 2010, MedSupply Pro has grown from a small medical supply company to a trusted partner of healthcare institutions across the globe. Our commitment to excellence and unwavering focus on quality has made us the preferred choice for medical professionals who demand the best for their patients."
+  },
+  "testimonials": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "title": "Chief of Surgery",
+      "organization": "Metropolitan General Hospital",
+      "quote": "MedSupply Pro has been our trusted partner for over 5 years. Their quality products and reliable service have been instrumental in our surgical success.",
+      "rating": 5
+    },
+    {
+      "name": "Michael Chen",
+      "title": "Pharmacy Director",
+      "organization": "Central Medical Pharmacy",
+      "quote": "The ordering process is seamless, and their customer support is exceptional. We've never had issues with product quality or delivery timing.",
+      "rating": 5
+    },
+    {
+      "name": "Dr. Amanda Rodriguez",
+      "title": "Emergency Medicine Director",
+      "organization": "City Emergency Medical Center",
+      "quote": "In emergency medicine, we need supplies we can trust. MedSupply Pro consistently delivers products that meet our exacting standards.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "hours": [
+      { "day": "Monday - Friday", "time": "8:00 AM - 6:00 PM EST" },
+      { "day": "Saturday", "time": "9:00 AM - 2:00 PM EST" },
+      { "day": "Sunday", "time": "Closed" }
+    ],
+    "coordinates": {
+      "lat": 40.7589,
+      "lng": -73.9851
+    }
+  }
+}
